@@ -1,0 +1,11 @@
+{
+  "name": "trumpet",
+  "version": "1.0.0",
+  "description": "presidential noisemaker",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "kristina born",
+  "license": "ISC"
+}
